@@ -1,0 +1,2014 @@
+2024-01-07 00:10:17,399: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-07 00:10:17,399: Last consensus is30
+2024-01-07 00:10:17,399: debug_msg : join_DMnetwork
+2024-01-07 00:10:17,400: debug_msg : join_DMnetwork
+2024-01-07 00:11:02,400: Continuation of leadership192.168.10.114,50058
+2024-01-07 00:11:02,400: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-07 00:11:02,401: CR_loop
+2024-01-07 00:11:02,401: CR_loop
+2024-01-07 00:11:02,401: block num : <bound method CrossReferenceManager.ref_block_number of <cross_reference.cross_reference_manager.CrossReferenceManager object at 0x7f1a387d0b80>>
+2024-01-07 00:11:47,401: Continuation of leadership192.168.10.114,50058
+2024-01-07 00:11:47,402: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-07 00:11:47,402: CR_loop
+2024-01-07 00:11:47,402: CR_loop
+2024-01-07 00:11:47,402: block num : <bound method CrossReferenceManager.ref_block_number of <cross_reference.cross_reference_manager.CrossReferenceManager object at 0x7f1a387d0b80>>
+2024-01-07 00:12:27,419: debug_msg : Follower_loop
+2024-01-07 00:14:27,421: debug_msg : Candidate
+2024-01-07 00:18:09,898: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-07 00:18:09,899: Last consensus is30
+2024-01-07 00:18:09,899: debug_msg : join_DMnetwork
+2024-01-07 00:18:09,899: debug_msg : join_DMnetwork
+2024-01-10 15:11:49,267: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-10 15:11:49,268: Last consensus is30
+2024-01-10 15:11:49,268: debug_msg : join_DMnetwork
+2024-01-10 15:11:49,268: debug_msg : join_DMnetwork
+2024-01-10 15:12:34,268: Continuation of leadership192.168.10.111,50058
+2024-01-10 15:12:34,268: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-10 15:12:34,269: CR_loop
+2024-01-10 15:12:34,269: CR_loop
+2024-01-10 15:12:34,269: block num : <bound method CrossReferenceManager.ref_block_number of <cross_reference.cross_reference_manager.CrossReferenceManager object at 0x7f859d794b80>>
+2024-01-10 15:13:43,811: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-10 15:13:43,811: Last consensus is30
+2024-01-10 15:13:43,811: debug_msg : join_DMnetwork
+2024-01-10 15:13:43,811: debug_msg : join_DMnetwork
+2024-01-10 15:13:43,820: debug_msg : Follower_loop
+2024-01-10 15:16:02,867: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:16:02,908: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:16:02,910: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:16:03,221:  ============= Phase2 start ============= 
+2024-01-10 15:16:47,875: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:16:47,904: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:16:47,906: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:16:47,950:  ============= Phase2 start ============= 
+2024-01-10 15:17:32,883: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:17:32,915: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:17:32,917: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:17:32,963:  ============= Phase2 start ============= 
+2024-01-10 15:18:17,890: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:18:17,919: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:18:17,921: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:18:17,967:  ============= Phase2 start ============= 
+2024-01-10 15:19:02,898: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:19:02,927: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:19:02,929: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:19:02,975:  ============= Phase2 start ============= 
+2024-01-10 15:19:47,904: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:19:47,934: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:19:47,937: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:19:47,975:  ============= Phase2 start ============= 
+2024-01-10 15:20:32,912: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:20:32,941: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:20:32,943: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:20:32,986:  ============= Phase2 start ============= 
+2024-01-10 15:21:17,917: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:21:17,946: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:21:17,948: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:21:17,997:  ============= Phase2 start ============= 
+2024-01-10 15:22:02,927: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:22:02,955: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:22:02,957: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:22:02,997:  ============= Phase2 start ============= 
+2024-01-10 15:22:47,932: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:22:47,964: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:22:47,966: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:22:48,013:  ============= Phase2 start ============= 
+2024-01-10 15:23:32,944: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:23:32,975: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:23:32,977: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:23:33,017:  ============= Phase2 start ============= 
+2024-01-10 15:24:17,949: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:24:17,977: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:24:17,979: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:25:02,957: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:25:02,985: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:25:02,987: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:25:47,966: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:25:47,995: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:25:47,996: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:26:33,030: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:26:33,106: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:26:33,114: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:27:17,999: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:27:18,029: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:27:18,031: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:28:03,004: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:28:03,030: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:28:03,031: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:28:48,011: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:28:48,036: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:28:48,037: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:29:33,017: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:29:33,041: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:29:33,043: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:33:44,718: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-10 15:33:44,719: Last consensus is30
+2024-01-10 15:33:44,719: debug_msg : join_DMnetwork
+2024-01-10 15:33:44,719: debug_msg : join_DMnetwork
+2024-01-10 15:33:44,728: debug_msg : Follower_loop
+2024-01-10 15:36:04,993: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:36:05,039: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:36:05,042: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:36:05,369:  ============= Phase2 start ============= 
+2024-01-10 15:36:49,998: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:36:50,029: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:36:50,031: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:36:50,069:  ============= Phase2 start ============= 
+2024-01-10 15:37:35,005: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:37:35,037: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:37:35,039: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:37:35,077:  ============= Phase2 start ============= 
+2024-01-10 15:38:20,012: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:38:20,044: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:38:20,046: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:38:20,083:  ============= Phase2 start ============= 
+2024-01-10 15:39:05,020: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:39:05,050: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:39:05,052: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:39:05,089:  ============= Phase2 start ============= 
+2024-01-10 15:39:50,026: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:39:50,057: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:39:50,058: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:39:50,095:  ============= Phase2 start ============= 
+2024-01-10 15:40:35,034: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:40:35,067: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:40:35,068: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:40:35,104:  ============= Phase2 start ============= 
+2024-01-10 15:41:20,041: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:41:20,072: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:41:20,073: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:41:20,112:  ============= Phase2 start ============= 
+2024-01-10 15:42:05,048: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:42:05,081: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:42:05,083: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:42:05,122:  ============= Phase2 start ============= 
+2024-01-10 15:42:50,055: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:42:50,084: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:42:50,086: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:42:50,123:  ============= Phase2 start ============= 
+2024-01-10 15:43:35,062: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:43:35,092: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:43:35,094: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:43:35,131:  ============= Phase2 start ============= 
+2024-01-10 15:44:20,071: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:44:20,103: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:44:20,105: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:45:05,079: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:45:05,113: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:45:05,114: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:45:50,085: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:45:50,115: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:45:50,117: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:46:35,092: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:46:35,123: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:46:35,124: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:47:20,100: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:47:20,130: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:47:20,132: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:48:05,108: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:48:05,142: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:48:05,143: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:48:50,115: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:48:50,144: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:48:50,146: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:49:35,121: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:49:35,151: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:49:35,153: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:50:20,129: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:50:20,159: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:50:20,160: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:51:05,137: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:51:05,169: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:51:05,171: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:51:50,143: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:51:50,173: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:51:50,174: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:52:35,150: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:52:35,178: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:52:35,181: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:53:20,156: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:53:20,186: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:53:20,187: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:54:05,163: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:54:05,194: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:54:05,196: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:54:50,170: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:54:50,202: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:54:50,203: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:55:35,179: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:55:35,209: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:55:35,211: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:56:20,185: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:56:20,215: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:56:20,217: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:57:05,193: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:57:05,225: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:57:05,227: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:57:50,200: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:57:50,230: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:57:50,231: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:58:35,206: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:58:35,239: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:58:35,240: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 15:59:20,213: cross_reference_reset is ok----Full-Reset
+2024-01-10 15:59:20,243: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 15:59:20,244: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:00:05,220: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:00:05,250: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:00:05,252: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:00:50,227: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:00:50,256: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:00:50,257: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:01:35,235: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:01:35,266: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:01:35,267: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:02:20,242: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:02:20,272: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:02:20,274: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:03:05,251: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:03:05,282: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:03:05,284: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:03:50,256: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:03:50,285: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:03:50,287: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:04:35,264: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:04:35,293: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:04:35,296: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:05:20,270: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:05:20,300: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:05:20,301: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:06:05,277: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:06:05,307: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:06:05,309: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:06:50,285: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:06:50,316: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:06:50,318: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:07:35,291: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:07:35,321: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:07:35,323: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:08:20,299: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:08:20,329: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:08:20,330: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:09:05,306: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:09:05,337: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:09:05,338: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:09:50,313: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:09:50,343: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:09:50,344: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:10:35,319: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:10:35,351: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:10:35,353: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:11:20,327: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:11:20,358: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:11:20,359: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:12:05,335: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:12:05,366: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:12:05,368: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:12:50,342: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:12:50,401: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:12:50,404: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:13:35,350: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:13:35,380: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:13:35,381: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:14:20,357: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:14:20,386: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:14:20,387: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:15:05,364: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:15:05,395: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:15:05,396: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:15:50,371: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:15:50,402: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:15:50,403: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:16:35,378: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:16:35,408: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:16:35,410: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:17:20,384: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:17:20,414: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:17:20,415: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:18:05,398: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:18:05,433: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:18:05,435: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:18:50,406: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:18:50,436: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:18:50,437: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:19:35,410: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:19:35,441: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:19:35,443: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:20:20,416: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:20:20,448: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:20:20,449: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:21:05,422: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:21:05,452: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:21:05,453: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:21:50,430: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:21:50,459: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:21:50,461: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:22:35,436: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:22:35,468: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:22:35,469: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:23:20,444: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:23:20,474: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:23:20,476: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:24:05,451: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:24:05,481: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:24:05,483: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:24:50,458: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:24:50,487: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:24:50,488: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:25:35,464: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:25:35,496: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:25:35,497: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:26:20,471: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:26:20,501: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:26:20,502: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:27:05,478: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:27:05,507: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:27:05,509: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:27:50,485: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:27:50,515: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:27:50,517: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:28:35,493: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:28:35,522: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:28:35,523: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:29:20,499: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:29:20,528: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:29:20,530: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:30:05,506: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:30:05,536: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:30:05,537: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:30:50,514: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:30:50,545: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:30:50,546: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:31:35,520: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:31:35,550: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:31:35,551: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:32:20,528: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:32:20,558: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:32:20,560: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:33:05,534: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:33:05,567: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:33:05,568: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:33:50,541: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:33:50,570: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:33:50,572: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:34:35,549: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:34:35,579: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:34:35,581: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:35:20,555: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:35:20,585: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:35:20,586: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:36:05,562: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:36:05,592: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:36:05,593: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:36:50,569: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:36:50,598: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:36:50,600: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:37:35,578: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:37:35,609: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:37:35,610: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:38:20,585: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:38:20,617: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:38:20,619: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:39:05,592: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:39:05,622: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:39:05,624: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:39:50,599: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:39:50,629: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:39:50,630: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:40:35,607: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:40:35,636: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:40:35,638: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:41:20,613: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:41:20,643: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:41:20,644: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:42:05,620: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:42:05,651: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:42:05,652: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:42:50,628: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:42:50,658: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:42:50,659: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:43:35,637: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:43:35,669: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:43:35,671: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:44:20,644: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:44:20,675: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:44:20,676: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:45:05,651: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:45:05,682: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:45:05,684: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:45:50,658: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:45:50,689: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:45:50,691: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:46:35,665: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:46:35,693: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:46:35,695: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:47:20,671: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:47:20,701: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:47:20,703: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:48:05,680: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:48:05,713: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:48:05,715: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:48:50,686: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:48:50,716: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:48:50,718: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:49:35,693: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:49:35,724: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:49:35,726: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:50:20,700: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:50:20,733: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:50:20,735: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:51:05,707: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:51:05,738: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:51:05,740: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:51:50,714: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:51:50,744: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:51:50,746: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:52:35,721: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:52:35,754: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:52:35,755: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:53:20,730: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:53:20,761: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:53:20,763: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:54:05,736: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:54:05,768: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:54:05,769: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:54:50,743: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:54:50,776: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:54:50,778: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:55:35,751: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:55:35,782: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:55:35,784: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:56:20,758: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:56:20,787: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:56:20,789: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:57:05,765: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:57:05,795: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:57:05,797: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:57:50,772: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:57:50,804: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:57:50,805: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:58:35,781: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:58:35,813: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:58:35,815: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 16:59:20,787: cross_reference_reset is ok----Full-Reset
+2024-01-10 16:59:20,819: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 16:59:20,821: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:00:05,798: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:00:05,829: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:00:05,830: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:00:50,804: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:00:50,835: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:00:50,837: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:01:35,812: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:01:35,845: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:01:35,847: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:02:20,817: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:02:20,847: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:02:20,849: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:03:05,826: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:03:05,858: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:03:05,862: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:03:50,832: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:03:50,865: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:03:50,866: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:04:35,838: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:04:35,869: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:04:35,871: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:05:20,845: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:05:20,876: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:05:20,877: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:06:05,852: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:06:05,884: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:06:05,885: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:06:50,860: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:06:50,892: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:06:50,893: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:07:35,865: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:07:35,895: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:07:35,896: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:08:20,872: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:08:20,905: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:08:20,907: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:09:05,880: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:09:05,913: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:09:05,915: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:09:50,887: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:09:50,917: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:09:50,919: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:10:35,896: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:10:35,926: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:10:35,928: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:11:20,902: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:11:20,934: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:11:20,935: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:12:05,912: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:12:05,940: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:12:05,943: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:12:50,915: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:12:50,946: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:12:50,947: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:13:35,922: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:13:35,955: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:13:35,957: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:14:20,929: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:14:20,959: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:14:20,961: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:15:05,943: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:15:05,996: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:15:05,998: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:15:50,944: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:15:50,974: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:15:50,976: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:16:35,951: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:16:35,981: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:16:35,983: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:17:20,958: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:17:20,989: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:17:20,991: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:18:05,965: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:18:05,998: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:18:05,999: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:18:50,972: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:18:51,005: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:18:51,007: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:19:35,979: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:19:36,009: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:19:36,011: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:20:20,987: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:20:21,020: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:20:21,021: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:21:05,994: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:21:06,024: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:21:06,026: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:21:51,001: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:21:51,034: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:21:51,035: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:22:36,009: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:22:36,040: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:22:36,041: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:23:21,016: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:23:21,046: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:23:21,047: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:24:06,023: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:24:06,053: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:24:06,054: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:24:51,029: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:24:51,061: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:24:51,063: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:25:36,037: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:25:36,070: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:25:36,072: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:26:21,043: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:26:21,073: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:26:21,075: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:27:06,050: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:27:06,084: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:27:06,086: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:27:51,057: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:27:51,087: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:27:51,089: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:28:36,064: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:28:36,096: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:28:36,098: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:29:21,072: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:29:21,103: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:29:21,105: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:30:06,079: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:30:06,112: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:30:06,114: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:30:51,086: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:30:51,118: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:30:51,119: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:31:36,092: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:31:36,127: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:31:36,129: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:32:21,100: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:32:21,132: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:32:21,134: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:33:06,107: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:33:06,139: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:33:06,140: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:33:51,113: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:33:51,145: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:33:51,146: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:34:36,120: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:34:36,154: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:34:36,156: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:35:21,128: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:35:21,157: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:35:21,159: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:36:06,134: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:36:06,166: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:36:06,167: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:36:51,141: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:36:51,175: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:36:51,177: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:37:36,147: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:37:36,178: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:37:36,180: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:38:21,155: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:38:21,187: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:38:21,188: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:39:06,161: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:39:06,192: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:39:06,193: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:39:51,168: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:39:51,198: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:39:51,200: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:40:36,174: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:40:36,205: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:40:36,207: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:41:21,181: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:41:21,211: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:41:21,213: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:42:06,188: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:42:06,220: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:42:06,221: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:42:51,195: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:42:51,225: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:42:51,227: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:43:36,203: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:43:36,233: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:43:36,234: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:44:21,209: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:44:21,242: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:44:21,244: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:45:06,215: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:45:06,248: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:45:06,250: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:45:51,222: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:45:51,252: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:45:51,254: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:46:36,229: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:46:36,260: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:46:36,262: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:47:21,236: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:47:21,267: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:47:21,268: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:48:06,243: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:48:06,274: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:48:06,276: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:48:51,251: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:48:51,295: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:48:51,297: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:49:36,257: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:49:36,288: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:49:36,289: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:50:21,264: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:50:21,295: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:50:21,297: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:51:06,271: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:51:06,301: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:51:06,302: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:51:51,279: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:51:51,310: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:51:51,311: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:52:36,286: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:52:36,315: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:52:36,317: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:53:21,292: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:53:21,323: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:53:21,324: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:54:06,300: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:54:06,331: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:54:06,332: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:54:51,307: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:54:51,336: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:54:51,338: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:55:36,314: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:55:36,346: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:55:36,349: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:56:21,322: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:56:21,355: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:56:21,357: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:57:06,329: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:57:06,362: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:57:06,363: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:57:51,336: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:57:51,368: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:57:51,369: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:58:36,343: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:58:36,377: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:58:36,379: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 17:59:21,350: cross_reference_reset is ok----Full-Reset
+2024-01-10 17:59:21,382: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 17:59:21,384: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:00:06,358: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:00:06,390: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:00:06,391: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:00:51,365: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:00:51,396: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:00:51,398: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:01:36,371: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:01:36,402: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:01:36,404: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:02:21,378: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:02:21,409: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:02:21,411: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:03:06,385: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:03:06,416: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:03:06,418: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:03:51,393: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:03:51,425: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:03:51,427: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:04:36,399: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:04:36,431: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:04:36,433: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:05:21,406: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:05:21,441: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:05:21,442: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:06:06,412: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:06:06,443: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:06:06,445: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:06:51,420: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:06:51,450: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:06:51,452: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:07:36,427: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:07:36,457: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:07:36,459: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:08:21,435: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:08:21,466: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:08:21,468: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:09:06,441: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:09:06,472: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:09:06,473: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:09:51,448: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:09:51,479: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:09:51,481: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:10:36,455: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:10:36,487: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:10:36,488: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:11:21,462: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:11:21,493: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:11:21,495: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:12:06,469: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:12:06,499: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:12:06,501: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:12:51,476: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:12:51,507: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:12:51,509: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:13:36,484: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:13:36,518: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:13:36,519: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:14:21,490: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:14:21,521: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:14:21,523: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:15:06,497: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:15:06,527: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:15:06,529: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:15:51,504: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:15:51,535: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:15:51,537: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:16:36,511: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:16:36,543: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:16:36,545: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:17:21,518: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:17:21,548: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:17:21,549: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:18:06,524: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:18:06,556: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:18:06,557: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:18:51,531: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:18:51,561: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:18:51,562: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:19:36,539: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:19:36,570: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:19:36,572: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:20:21,546: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:20:21,576: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:20:21,578: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:21:06,552: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:21:06,583: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:21:06,585: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:21:51,560: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:21:51,593: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:21:51,595: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:22:36,567: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:22:36,598: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:22:36,600: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:23:21,574: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:23:21,604: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:23:21,606: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:24:06,581: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:24:06,611: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:24:06,613: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:24:51,589: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:24:51,620: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:24:51,621: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:25:36,596: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:25:36,629: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:25:36,631: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:26:21,603: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:26:21,636: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:26:21,638: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:27:06,611: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:27:06,644: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:27:06,646: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:27:51,619: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:27:51,650: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:27:51,652: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:28:36,625: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:28:36,655: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:28:36,657: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:29:21,632: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:29:21,664: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:29:21,666: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:30:06,639: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:30:06,670: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:30:06,672: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:30:51,645: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:30:51,677: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:30:51,678: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:31:36,653: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:31:36,684: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:31:36,686: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:32:21,662: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:32:21,694: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:32:21,696: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:33:06,668: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:33:06,698: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:33:06,700: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:33:51,676: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:33:51,706: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:33:51,708: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:34:36,684: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:34:36,717: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:34:36,719: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:35:21,690: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:35:21,723: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:35:21,725: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:36:06,697: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:36:06,728: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:36:06,729: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:36:51,705: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:36:51,735: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:36:51,737: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:37:36,712: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:37:36,743: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:37:36,744: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:38:21,719: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:38:21,750: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:38:21,752: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:39:06,727: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:39:06,758: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:39:06,759: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:39:51,736: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:39:51,768: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:39:51,770: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:40:36,743: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:40:36,773: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:40:36,775: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:41:21,750: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:41:21,781: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:41:21,783: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:42:06,758: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:42:06,789: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:42:06,791: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:42:51,766: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:42:51,798: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:42:51,800: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:43:36,774: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:43:36,804: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:43:36,806: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:44:21,781: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:44:21,813: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:44:21,815: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:45:06,787: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:45:06,820: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:45:06,821: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:45:51,795: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:45:51,826: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:45:51,828: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:46:36,802: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:46:36,832: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:46:36,834: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:47:21,808: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:47:21,839: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:47:21,841: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:48:06,815: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:48:06,846: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:48:06,848: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:48:51,822: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:48:51,853: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:48:51,854: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:49:36,829: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:49:36,859: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:49:36,861: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:50:21,836: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:50:21,867: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:50:21,869: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:51:06,842: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:51:06,873: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:51:06,875: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:51:51,849: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:51:51,881: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:51:51,883: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:52:36,856: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:52:36,889: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:52:36,891: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:53:21,863: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:53:21,893: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:53:21,895: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:54:06,870: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:54:06,903: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:54:06,905: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:54:51,877: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:54:51,909: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:54:51,911: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:55:36,883: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:55:36,914: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:55:36,915: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:56:21,891: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:56:21,921: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:56:21,923: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:57:06,899: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:57:06,930: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:57:06,932: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:57:51,905: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:57:51,936: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:57:51,938: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:58:36,915: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:58:36,945: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:58:36,947: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 18:59:21,921: cross_reference_reset is ok----Full-Reset
+2024-01-10 18:59:21,952: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 18:59:21,954: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:00:06,929: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:00:06,960: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:00:06,962: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:00:51,934: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:00:51,966: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:00:51,968: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:01:36,942: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:01:36,973: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:01:36,975: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:02:21,950: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:02:21,980: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:02:21,982: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:03:06,957: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:03:06,988: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:03:06,989: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:03:51,963: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:03:51,993: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:03:51,995: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:04:36,971: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:04:37,006: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:04:37,008: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:05:21,978: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:05:22,008: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:05:22,010: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:06:06,984: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:06:07,015: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:06:07,017: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:06:51,992: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:06:52,023: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:06:52,025: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:07:37,000: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:07:37,030: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:07:37,032: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:08:22,007: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:08:22,040: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:08:22,042: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:09:07,017: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:09:07,048: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:09:07,049: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:09:52,024: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:09:52,057: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:09:52,058: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:10:37,031: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:10:37,062: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:10:37,064: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:11:22,038: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:11:22,070: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:11:22,071: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:12:07,044: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:12:07,074: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:12:07,076: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:12:52,051: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:12:52,082: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:12:52,083: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:13:37,057: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:13:37,088: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:13:37,090: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:14:22,065: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:14:22,097: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:14:22,099: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:15:07,071: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:15:07,102: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:15:07,104: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:15:52,080: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:15:52,114: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:15:52,115: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:16:37,087: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:16:37,119: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:16:37,121: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:17:22,094: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:17:22,128: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:17:22,129: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:18:07,102: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:18:07,134: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:18:07,136: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:18:52,108: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:18:52,138: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:18:52,140: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:19:37,114: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:19:37,145: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:19:37,146: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:20:22,121: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:20:22,153: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:20:22,154: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:21:07,129: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:21:07,160: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:21:07,162: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:21:52,136: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:21:52,167: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:21:52,169: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:22:37,143: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:22:37,178: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:22:37,180: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:23:22,150: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:23:22,180: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:23:22,182: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:24:07,157: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:24:07,188: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:24:07,190: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:24:52,164: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:24:52,194: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:24:52,196: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:25:37,171: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:25:37,203: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:25:37,205: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:26:22,179: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:26:22,212: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:26:22,213: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:27:07,185: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:27:07,216: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:27:07,218: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:27:52,192: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:27:52,222: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:27:52,224: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:28:37,200: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:28:37,231: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:28:37,232: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:29:22,207: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:29:22,237: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:29:22,239: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:30:07,218: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:30:07,248: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:30:07,250: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:30:52,223: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:30:52,253: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:30:52,255: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:31:37,232: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:31:37,264: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:31:37,266: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:32:22,237: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:32:22,270: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:32:22,271: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:33:07,243: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:33:07,274: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:33:07,276: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:33:52,251: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:33:52,281: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:33:52,282: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:34:37,258: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:34:37,289: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:34:37,291: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:35:22,264: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:35:22,296: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:35:22,297: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:36:07,272: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:36:07,305: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:36:07,307: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:36:52,279: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:36:52,310: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:36:52,312: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:37:37,286: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:37:37,317: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:37:37,319: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:38:22,293: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:38:22,324: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:38:22,326: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:39:07,299: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:39:07,330: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:39:07,332: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:39:52,307: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:39:52,337: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:39:52,339: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:40:37,314: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:40:37,345: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:40:37,346: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:41:22,321: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:41:22,353: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:41:22,354: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:42:07,328: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:42:07,358: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:42:07,359: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:42:52,337: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:42:52,368: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:42:52,370: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:43:37,343: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:43:37,374: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:43:37,376: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:44:22,352: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:44:22,384: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:44:22,385: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:45:07,359: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:45:07,390: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:45:07,392: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:45:52,366: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:45:52,396: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:45:52,397: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:46:37,373: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:46:37,402: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:46:37,403: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:47:22,379: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:47:22,409: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:47:22,410: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:48:07,388: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:48:07,417: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:48:07,419: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:48:52,396: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:48:52,425: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:48:52,427: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:49:37,403: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:49:37,433: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:49:37,434: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:50:22,412: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:50:22,442: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:50:22,444: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:51:07,420: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:51:07,450: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:51:07,451: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:51:52,427: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:51:52,456: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:51:52,457: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:52:37,434: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:52:37,463: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:52:37,465: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:53:22,441: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:53:22,470: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:53:22,472: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:54:07,448: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:54:07,481: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:54:07,483: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:54:52,455: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:54:52,485: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:54:52,487: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:55:37,463: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:55:37,493: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:55:37,495: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:56:22,470: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:56:22,500: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:56:22,501: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:57:07,479: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:57:07,510: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:57:07,511: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:57:52,485: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:57:52,515: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:57:52,517: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:58:37,492: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:58:37,520: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:58:37,521: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 19:59:22,499: cross_reference_reset is ok----Full-Reset
+2024-01-10 19:59:22,529: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 19:59:22,530: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:00:07,505: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:00:07,534: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:00:07,535: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:00:52,513: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:00:52,544: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:00:52,545: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:01:37,521: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:01:37,551: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:01:37,552: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:02:22,527: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:02:22,556: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:02:22,558: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:03:07,536: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:03:07,566: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:03:07,568: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:03:52,543: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:03:52,574: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:03:52,575: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:04:37,550: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:04:37,578: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:04:37,579: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:05:22,558: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:05:22,588: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:05:22,590: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:06:07,564: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:06:07,592: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:06:07,594: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:06:52,571: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:06:52,599: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:06:52,601: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:07:37,577: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:07:37,607: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:07:37,609: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:08:22,585: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:08:22,614: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:08:22,616: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:09:07,591: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:09:07,622: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:09:07,623: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:09:52,599: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:09:52,630: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:09:52,631: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:10:37,615: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:10:37,656: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:10:37,659: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:11:22,615: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:11:22,644: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:11:22,646: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:12:07,623: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:12:07,653: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:12:07,654: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:12:52,630: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:12:52,659: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:12:52,661: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:13:37,637: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:13:37,667: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:13:37,668: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:14:22,644: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:14:22,675: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:14:22,677: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:15:07,651: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:15:07,682: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:15:07,683: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:15:52,657: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:15:52,686: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:15:52,687: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:16:37,666: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:16:37,698: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:16:37,700: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:17:22,673: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:17:22,704: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:17:22,705: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:18:07,679: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:18:07,708: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:18:07,710: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:18:52,686: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:18:52,716: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:18:52,718: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:19:37,694: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:19:37,725: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:19:37,727: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:20:22,700: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:20:22,729: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:20:22,731: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:21:07,706: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:21:07,741: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:21:07,743: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:21:52,714: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:21:52,742: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:21:52,744: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:22:37,720: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:22:37,750: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:22:37,751: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:23:22,726: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:23:22,755: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:23:22,756: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:24:07,734: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:24:07,762: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:24:07,763: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:24:52,741: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:24:52,771: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:24:52,772: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:25:37,748: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:25:37,777: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:25:37,779: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:26:22,755: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:26:22,785: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:26:22,787: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:27:07,762: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:27:07,791: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:27:07,793: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:27:52,769: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:27:52,798: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:27:52,799: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:28:37,777: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:28:37,807: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:28:37,808: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:29:22,784: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:29:22,814: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:29:22,816: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:30:07,791: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:30:07,822: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:30:07,824: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:30:52,799: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:30:52,828: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:30:52,829: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:31:37,806: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:31:37,837: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:31:37,838: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:32:22,813: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:32:22,842: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:32:22,844: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:33:07,820: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:33:07,849: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:33:07,851: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:33:52,827: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:33:52,858: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:33:52,859: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:34:37,835: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:34:37,865: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:34:37,866: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:35:22,842: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:35:22,872: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:35:22,874: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:36:07,850: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:36:07,881: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:36:07,883: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:36:52,856: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:36:52,885: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:36:52,886: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:37:37,864: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:37:37,894: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:37:37,896: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:38:22,872: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:38:22,903: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:38:22,905: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:39:07,879: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:39:07,907: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:39:07,909: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:39:52,886: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:39:52,914: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:39:52,916: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:40:37,892: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:40:37,921: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:40:37,923: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:41:22,899: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:41:22,927: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:41:22,928: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:42:07,905: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:42:07,934: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:42:07,935: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:42:52,912: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:42:52,941: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:42:52,943: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:43:37,919: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:43:37,948: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:43:37,950: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:44:22,926: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:44:22,956: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:44:22,958: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:45:07,933: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:45:07,963: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:45:07,965: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:45:52,940: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:45:52,969: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:45:52,971: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:46:37,946: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:46:37,976: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:46:37,978: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:47:22,953: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:47:22,983: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:47:22,984: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:48:07,960: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:48:07,989: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:48:07,990: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:48:52,967: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:48:52,998: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:48:52,999: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:49:37,974: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:49:38,004: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:49:38,006: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:50:22,981: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:50:23,011: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:50:23,013: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:51:07,989: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:51:08,016: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:51:08,018: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:51:52,995: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:51:53,024: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:51:53,026: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:52:38,003: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:52:38,036: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:52:38,037: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:53:23,010: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:53:23,039: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:53:23,041: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:54:08,017: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:54:08,046: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:54:08,048: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:54:53,024: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:54:53,053: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:54:53,055: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:55:38,031: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:55:38,060: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:55:38,062: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:56:23,038: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:56:23,068: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:56:23,069: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:57:08,045: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:57:08,074: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:57:08,075: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:57:53,051: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:57:53,080: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:57:53,081: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:58:38,059: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:58:38,087: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:58:38,089: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 20:59:23,067: cross_reference_reset is ok----Full-Reset
+2024-01-10 20:59:23,096: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 20:59:23,098: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:00:08,073: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:00:08,103: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:00:08,104: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:00:53,080: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:00:53,109: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:00:53,111: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:01:38,087: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:01:38,115: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:01:38,117: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:02:23,094: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:02:23,125: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:02:23,127: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:03:08,101: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:03:08,130: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:03:08,132: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:03:53,107: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:03:53,138: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:03:53,139: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:04:38,114: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:04:38,143: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:04:38,145: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:05:23,121: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:05:23,149: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:05:23,151: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:06:08,128: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:06:08,156: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:06:08,157: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:06:53,136: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:06:53,167: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:06:53,168: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:07:38,143: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:07:38,173: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:07:38,175: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:08:23,150: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:08:23,181: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:08:23,182: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:09:08,157: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:09:08,185: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:09:08,187: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:09:53,164: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:09:53,192: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:09:53,194: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:10:38,173: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:10:38,206: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:10:38,207: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:11:23,179: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:11:23,210: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:11:23,211: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:12:08,185: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:12:08,215: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:12:08,217: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:12:53,192: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:12:53,221: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:12:53,223: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:13:38,199: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:13:38,227: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:13:38,229: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:14:23,206: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:14:23,235: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:14:23,237: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:15:08,213: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:15:08,243: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:15:08,245: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:15:53,220: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:15:53,249: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:15:53,251: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:16:38,227: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:16:38,256: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:16:38,257: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:17:23,234: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:17:23,263: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:17:23,264: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:18:08,240: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:18:08,270: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:18:08,272: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:18:53,247: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:18:53,276: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:18:53,278: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:19:38,255: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:19:38,286: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:19:38,288: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:20:23,262: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:20:23,291: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:20:23,293: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:21:08,269: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:21:08,298: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:21:08,300: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:21:53,276: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:21:53,306: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:21:53,307: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:22:38,284: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:22:38,314: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:22:38,316: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:23:23,291: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:23:23,319: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:23:23,321: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:24:08,299: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:24:08,332: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:24:08,333: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:24:53,307: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:24:53,337: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:24:53,338: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:25:38,314: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:25:38,342: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:25:38,344: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:26:23,321: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:26:23,354: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:26:23,357: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:27:08,331: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:27:08,363: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:27:08,364: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:27:53,337: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:27:53,367: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:27:53,369: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:28:38,344: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:28:38,375: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:28:38,376: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:29:23,351: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:29:23,380: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:29:23,382: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:30:08,357: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:30:08,386: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:30:08,387: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:30:53,365: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:30:53,395: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:30:53,396: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:31:38,371: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:31:38,401: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:31:38,402: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:32:23,379: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:32:23,410: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:32:23,411: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:33:08,386: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:33:08,414: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:33:08,416: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:33:53,393: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:33:53,424: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:33:53,426: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:34:38,400: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:34:38,430: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:34:38,431: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:35:23,407: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:35:23,436: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:35:23,438: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:36:08,414: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:36:08,445: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:36:08,446: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:36:53,420: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:36:53,449: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:36:53,451: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:37:38,428: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:37:38,456: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:37:38,458: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:38:23,434: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:38:23,463: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:38:23,464: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:39:08,442: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:39:08,471: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:39:08,472: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:39:53,448: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:39:53,478: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:39:53,480: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:40:38,455: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:40:38,484: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:40:38,485: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:41:23,461: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:41:23,490: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:41:23,492: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:42:08,468: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:42:08,497: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:42:08,498: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:42:53,475: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:42:53,503: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:42:53,504: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:43:38,485: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:43:38,515: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:43:38,516: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:44:23,492: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:44:23,524: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:44:23,526: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:45:08,500: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:45:08,530: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:45:08,532: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:45:53,506: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:45:53,534: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:45:53,536: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:46:38,513: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:46:38,542: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:46:38,543: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:47:23,520: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:47:23,548: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:47:23,550: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:48:08,528: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:48:08,560: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:48:08,562: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:48:53,537: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:48:53,576: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:48:53,578: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:49:38,543: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:49:38,572: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:49:38,574: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:50:23,549: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:50:23,578: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:50:23,580: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:51:08,557: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:51:08,588: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:51:08,589: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:51:53,563: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:51:53,594: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:51:53,595: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:52:38,571: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:52:38,602: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:52:38,604: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:53:23,578: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:53:23,608: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:53:23,609: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:54:08,585: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:54:08,614: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:54:08,616: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:54:53,593: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:54:53,623: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:54:53,625: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:55:38,600: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:55:38,630: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:55:38,632: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:56:23,607: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:56:23,637: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:56:23,639: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:57:08,614: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:57:08,643: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:57:08,644: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:57:53,623: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:57:53,654: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:57:53,655: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:58:38,629: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:58:38,661: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:58:38,662: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 21:59:23,637: cross_reference_reset is ok----Full-Reset
+2024-01-10 21:59:23,667: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 21:59:23,669: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:00:08,644: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:00:08,674: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:00:08,675: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:00:53,651: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:00:53,681: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:00:53,682: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:01:38,657: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:01:38,687: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:01:38,688: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:02:23,665: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:02:23,693: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:02:23,695: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:03:08,671: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:03:08,699: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:03:08,701: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:03:53,678: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:03:53,707: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:03:53,709: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:04:38,690: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:04:38,729: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:04:38,732: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:05:23,693: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:05:23,724: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:05:23,726: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:06:08,699: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:06:08,728: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:06:08,729: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:06:53,706: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:06:53,735: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:06:53,737: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:07:38,714: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:07:38,744: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:07:38,745: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:08:23,725: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:08:23,762: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:08:23,764: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:09:08,728: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:09:08,758: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:09:08,759: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:09:53,734: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:09:53,764: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:09:53,765: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:10:38,742: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:10:38,772: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:10:38,773: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:11:23,749: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:11:23,778: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:11:23,780: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:12:08,757: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:12:08,786: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:12:08,788: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-10 22:12:53,819: cross_reference_reset is ok----Full-Reset
+2024-01-10 22:12:53,926: ============= start_cross_reference__Leader_aggregation =============
+2024-01-10 22:12:53,929: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:08:23,781: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:08:23,781: Last consensus is30
+2024-01-15 01:08:23,781: debug_msg : join_DMnetwork
+2024-01-15 01:08:23,781: debug_msg : join_DMnetwork
+2024-01-15 01:08:23,783: debug_msg : Follower_loop
+2024-01-15 01:13:10,597: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:13:10,597: Last consensus is30
+2024-01-15 01:13:10,597: debug_msg : join_DMnetwork
+2024-01-15 01:13:10,597: debug_msg : join_DMnetwork
+2024-01-15 01:13:10,606: debug_msg : Follower_loop
+2024-01-15 01:15:29,102: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:15:29,173: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:15:29,175: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:15:29,895:  ============= Phase2 start ============= 
+2024-01-15 01:16:14,101: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:16:14,130: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:16:14,132: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:22:49,497: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:22:49,497: Last consensus is30
+2024-01-15 01:22:49,497: debug_msg : join_DMnetwork
+2024-01-15 01:22:49,497: debug_msg : join_DMnetwork
+2024-01-15 01:22:49,506: debug_msg : Follower_loop
+2024-01-15 01:25:08,202: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:25:08,238: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:25:08,241: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:25:08,464:  ============= Phase2 start ============= 
+2024-01-15 01:25:53,208: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:25:53,235: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:25:53,238: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:26:38,217: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:26:38,243: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:26:38,244: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:26:49,507: debug_msg : Candidate
+2024-01-15 01:27:23,227: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:27:23,255: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:27:23,258: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:28:08,234: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:28:08,256: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:28:08,257: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:28:53,275: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:28:53,332: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:28:53,335: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:29:38,278: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:29:38,302: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:29:38,303: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:30:23,288: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:30:23,312: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:30:23,314: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:31:08,304: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:31:08,375: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:31:08,381: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:31:53,308: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:31:53,332: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:31:53,334: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:32:38,415: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:32:38,550: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:32:38,552: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:33:23,401: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:33:23,429: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:33:23,431: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:34:08,409: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:34:08,432: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:34:08,434: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:34:53,418: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:34:53,440: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:34:53,442: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:39:25,003: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:39:25,003: Last consensus is30
+2024-01-15 01:39:25,003: debug_msg : join_DMnetwork
+2024-01-15 01:39:25,003: debug_msg : join_DMnetwork
+2024-01-15 01:39:25,012: debug_msg : Follower_loop
+2024-01-15 01:41:43,784: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:41:43,839: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:41:44,246:  ============= Phase2 start ============= 
+2024-01-15 01:41:44,247: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:42:28,792: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:42:28,829: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:42:28,868: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:43:13,801: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:43:13,839: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:43:13,878: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:43:25,014: debug_msg : Candidate
+2024-01-15 01:43:58,815: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:43:58,861: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:43:58,955: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:44:43,838: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:44:43,885: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:44:43,943: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:45:28,837: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:45:28,871: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:45:28,953: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:46:13,905: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:46:14,037: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:46:14,189: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:49:03,398: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:49:03,399: Last consensus is30
+2024-01-15 01:49:03,399: debug_msg : join_DMnetwork
+2024-01-15 01:49:03,399: debug_msg : join_DMnetwork
+2024-01-15 01:49:03,412: debug_msg : Follower_loop
+2024-01-15 01:51:23,487: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:51:23,535: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:51:23,934:  ============= Phase2 start ============= 
+2024-01-15 01:51:23,935: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:52:08,507: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:52:08,732: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:52:08,820: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:52:53,547: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:52:53,626: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:52:53,763: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:53:38,763: cross_reference_reset is ok----Full-Reset
+2024-01-15 01:53:38,919: ============= start_cross_reference__Leader_aggregation =============
+2024-01-15 01:53:39,063: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-15 01:54:39,932: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:54:39,932: Last consensus is30
+2024-01-15 01:54:39,932: debug_msg : join_DMnetwork
+2024-01-15 01:54:39,932: debug_msg : join_DMnetwork
+2024-01-15 01:54:39,941: debug_msg : Follower_loop
+2024-01-15 01:57:03,109: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:57:03,111: Last consensus is30
+2024-01-15 01:57:03,111: debug_msg : join_DMnetwork
+2024-01-15 01:57:03,111: debug_msg : join_DMnetwork
+2024-01-15 01:57:03,122: debug_msg : Follower_loop
+2024-01-15 01:58:48,611: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 01:58:48,611: Last consensus is30
+2024-01-15 01:58:48,612: debug_msg : join_DMnetwork
+2024-01-15 01:58:48,612: debug_msg : join_DMnetwork
+2024-01-15 01:58:48,621: debug_msg : Follower_loop
+2024-01-15 02:05:00,278: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-15 02:05:00,278: Last consensus is30
+2024-01-15 02:05:00,278: debug_msg : join_DMnetwork
+2024-01-15 02:05:00,278: debug_msg : join_DMnetwork
+2024-01-15 02:05:00,287: debug_msg : Follower_loop
+2024-01-16 00:47:17,293: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 00:47:17,296: Last consensus is30
+2024-01-16 00:47:17,296: debug_msg : join_DMnetwork
+2024-01-16 00:47:17,296: debug_msg : join_DMnetwork
+2024-01-16 00:47:17,305: debug_msg : Follower_loop
+2024-01-16 00:48:40,340: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 00:48:40,340: Last consensus is30
+2024-01-16 00:48:40,340: debug_msg : join_DMnetwork
+2024-01-16 00:48:40,340: debug_msg : join_DMnetwork
+2024-01-16 00:48:40,349: debug_msg : Follower_loop
+2024-01-16 00:51:09,570: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 00:51:09,570: Last consensus is30
+2024-01-16 00:51:09,571: debug_msg : join_DMnetwork
+2024-01-16 00:51:09,571: debug_msg : join_DMnetwork
+2024-01-16 00:51:09,580: debug_msg : Follower_loop
+2024-01-16 00:53:28,045: cross_reference_reset is ok----Full-Reset
+2024-01-16 00:53:28,088: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 00:53:28,090: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 00:53:28,492:  ============= Phase2 start ============= 
+2024-01-16 00:54:13,048: cross_reference_reset is ok----Full-Reset
+2024-01-16 00:54:13,079: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 00:54:13,081: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 00:54:58,058: cross_reference_reset is ok----Full-Reset
+2024-01-16 00:54:58,098: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 00:54:58,100: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 00:56:23,808: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 00:56:23,808: Last consensus is30
+2024-01-16 00:56:23,808: debug_msg : join_DMnetwork
+2024-01-16 00:56:23,809: debug_msg : join_DMnetwork
+2024-01-16 00:56:23,818: debug_msg : Follower_loop
+2024-01-16 00:57:28,141: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 00:57:28,141: Last consensus is30
+2024-01-16 00:57:28,141: debug_msg : join_DMnetwork
+2024-01-16 00:57:28,141: debug_msg : join_DMnetwork
+2024-01-16 00:57:28,151: debug_msg : Follower_loop
+2024-01-16 01:13:16,893: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 01:13:16,893: Last consensus is30
+2024-01-16 01:13:16,893: debug_msg : join_DMnetwork
+2024-01-16 01:13:16,893: debug_msg : join_DMnetwork
+2024-01-16 01:13:16,902: debug_msg : Follower_loop
+2024-01-16 01:15:36,266: cross_reference_reset is ok----Full-Reset
+2024-01-16 01:15:36,316: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 01:15:36,706:  ============= Phase2 start ============= 
+2024-01-16 01:15:36,707: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 01:16:21,272: cross_reference_reset is ok----Full-Reset
+2024-01-16 01:16:21,311: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 01:16:21,356:  ============= Phase2 start ============= 
+2024-01-16 01:16:21,357: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 01:17:06,280: cross_reference_reset is ok----Full-Reset
+2024-01-16 01:17:06,314: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 01:17:06,356:  ============= Phase2 start ============= 
+2024-01-16 01:17:06,356: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 01:17:51,288: cross_reference_reset is ok----Full-Reset
+2024-01-16 01:17:51,323: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 01:17:51,365:  ============= Phase2 start ============= 
+2024-01-16 01:17:51,366: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 01:18:36,297: cross_reference_reset is ok----Full-Reset
+2024-01-16 01:18:36,343: ============= start_cross_reference__Leader_aggregation =============
+2024-01-16 01:18:36,387:  ============= Phase2 start ============= 
+2024-01-16 01:18:36,388: MSG_CROSS_REFFERENCE_LEADER_AGGREGATION
+2024-01-16 01:19:32,043: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 01:19:32,043: Last consensus is30
+2024-01-16 01:19:32,043: debug_msg : join_DMnetwork
+2024-01-16 01:19:32,043: debug_msg : join_DMnetwork
+2024-01-16 01:19:32,052: debug_msg : Follower_loop
+2024-01-16 01:21:48,809: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-16 01:21:48,809: Last consensus is30
+2024-01-16 01:21:48,809: debug_msg : join_DMnetwork
+2024-01-16 01:21:48,809: debug_msg : join_DMnetwork
+2024-01-16 01:21:48,818: debug_msg : Follower_loop
+2024-01-17 00:19:03,029: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-17 00:19:03,029: Last consensus is30
+2024-01-17 00:19:03,030: debug_msg : join_DMnetwork
+2024-01-17 00:19:03,030: debug_msg : join_DMnetwork
+2024-01-17 00:19:03,038: debug_msg : Follower_loop
+2024-01-30 15:15:10,864: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-30 15:15:10,864: CR_loop
+2024-01-30 15:15:10,864: block num : <bound method IBCManager.ref_block_number of <cross_reference.ibc_manager.IBCManager object at 0x7fa2875b7340>>
+2024-01-30 15:15:10,865: Last consensus is30
+2024-01-30 15:15:10,865: debug_msg : join_DMnetwork
+2024-01-30 15:15:10,865: debug_msg : join_DMnetwork
+2024-01-30 15:15:10,874: debug_msg : Follower_loop
+2024-01-30 15:16:34,229: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:17:02,217: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:17:44,307: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:18:12,242: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:19:01,251: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:19:43,266: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:20:25,359: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:21:14,384: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:22:03,329: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:22:31,396: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:23:20,406: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:23:55,410: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:24:44,418: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:25:19,442: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:26:01,460: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:26:36,454: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:27:18,459: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:27:53,479: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:28:21,578: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:28:56,598: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:29:38,615: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:30:13,628: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:31:02,624: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:31:58,655: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:32:40,664: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:33:29,756: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:34:04,763: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:34:39,796: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:35:21,790: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:36:10,821: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:36:52,824: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:37:27,923: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:38:02,944: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:38:30,956: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:38:58,946: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:39:40,963: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:40:22,986: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:41:11,987: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:41:40,092: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:42:15,097: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:42:57,124: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:43:39,125: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:44:28,246: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:45:17,247: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:45:59,238: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:46:41,355: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:47:16,368: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:47:58,380: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:48:33,380: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:49:29,513: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:50:11,510: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:50:53,532: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:51:21,631: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:52:03,648: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:52:31,651: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:53:13,756: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:53:41,763: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:54:30,788: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:55:26,896: cross_reference_reset is ok----Full-Reset
+2024-01-30 15:55:54,887: cross_reference_reset is ok----Full-Reset
+2024-01-31 01:46:08,523: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-31 01:46:08,523: CR_loop
+2024-01-31 01:46:08,523: block num : <bound method IBCManager.ref_block_number of <cross_reference.ibc_manager.IBCManager object at 0x7f6369bd3340>>
+2024-01-31 01:46:08,523: Last consensus is30
+2024-01-31 01:46:08,524: debug_msg : join_DMnetwork
+2024-01-31 01:46:08,524: debug_msg : join_DMnetwork
+2024-01-31 01:46:33,524: Continuation of leadership192.168.10.111,50058
+2024-01-31 01:46:33,524: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-31 01:46:33,525: CR_loop
+2024-01-31 01:46:33,525: block num : <bound method IBCManager.ref_block_number of <cross_reference.ibc_manager.IBCManager object at 0x7f6369bd3340>>
+2024-01-31 01:46:33,526: Last consensus is30
+2024-01-31 01:46:51,526: Continuation of leadership192.168.10.111,50058
+2024-01-31 01:46:51,526: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-31 01:46:51,527: CR_loop
+2024-01-31 01:46:51,527: block num : <bound method IBCManager.ref_block_number of <cross_reference.ibc_manager.IBCManager object at 0x7f6369bd3340>>
+2024-01-31 01:46:51,527: Last consensus is30
+2024-01-31 01:47:11,528: Continuation of leadership192.168.10.111,50058
+2024-01-31 01:47:11,528: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-31 01:47:11,528: CR_loop
+2024-01-31 01:47:11,528: block num : <bound method IBCManager.ref_block_number of <cross_reference.ibc_manager.IBCManager object at 0x7f6369bd3340>>
+2024-01-31 01:47:11,528: Last consensus is30
+2024-01-31 01:47:37,529: Continuation of leadership192.168.10.111,50058
+2024-01-31 01:47:37,529: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-31 01:47:37,529: CR_loop
+2024-01-31 01:47:37,529: block num : <bound method IBCManager.ref_block_number of <cross_reference.ibc_manager.IBCManager object at 0x7f6369bd3340>>
+2024-01-31 01:47:37,529: Last consensus is30
+2024-01-31 01:48:00,530: Continuation of leadership192.168.10.111,50058
+2024-01-31 01:48:00,530: 1111111111111111111111111Leader_loop1111111111111111111111111
+2024-01-31 01:48:00,530: CR_loop
+2024-01-31 01:48:00,530: block num : <bound method IBCManager.ref_block_number of <cross_reference.ibc_manager.IBCManager object at 0x7f6369bd3340>>
+2024-01-31 01:48:00,531: Last consensus is30
+2024-01-31 01:48:21,786: debug_msg : Follower_loop
